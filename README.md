@@ -11,6 +11,7 @@ using HTML, CSS, JavaScript, UI/UX, and React (later phase).
 ## 📅 Progress
 ✅ Day 1 – HTML Lists (ordered, unordered, nested lists)
 ✅ Day 2 – HTML Media Elements (image, video, audio)
+✅ Day 3 – HTML Tables (rowspan, colspan)
 
 ---
 
