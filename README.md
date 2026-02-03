@@ -13,7 +13,7 @@ using HTML, CSS, JavaScript, UI/UX, and React (later phase).
 ✅ Day 2 – HTML Media Elements (image, video, audio)
 ✅ Day 3 – HTML Tables (rowspan, colspan)
 ✅ Update progress for Day 4 (HTML Forms)
-
+✅ Day 5 – CSS Resume (HTML structure & CSS styling)
 
 ---
 
