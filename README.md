@@ -16,7 +16,7 @@ using HTML, CSS, JavaScript, UI/UX, and React (later phase).
 ✅ Day 5 – CSS Resume (HTML structure & CSS styling)
 ✅ Day 6 – CSS Landing Page
 ✅ Day 7 – Landing Page Design (HTML & CSS)
----
+✅ Day 8 – CSS Fish Landing Page
 
 ## 🛠 Tech Stack
 HTML • CSS • JavaScript • UI/UX  
