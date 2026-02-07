@@ -6,7 +6,6 @@ CSE student | Frontend Web Developer & UI/UX Designer
 This repository documents my 100-day journey of building frontend projects
 using HTML, CSS, JavaScript, UI/UX, and React (later phase).
 
----
 
 ## 📅 Progress
 ✅ Day 1 – HTML Lists (ordered, unordered, nested lists)
@@ -17,12 +16,14 @@ using HTML, CSS, JavaScript, UI/UX, and React (later phase).
 ✅ Day 6 – CSS Landing Page
 ✅ Day 7 – Landing Page Design (HTML & CSS)
 ✅ Day 8 – CSS Fish Landing Page
+✅ Day 9 – CSS Motivation Section (background, overlay, centered content)
+
+
 
 ## 🛠 Tech Stack
 HTML • CSS • JavaScript • UI/UX  
 React (introduced in later projects)
 
----
 
 ## 🌟 Goal
 Build real-world projects, stay consistent, and grow as a frontend developer.
