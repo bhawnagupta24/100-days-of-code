@@ -17,6 +17,8 @@ using HTML, CSS, JavaScript, UI/UX, and React (later phase).
 ✅ Day 7 – Landing Page Design (HTML & CSS)
 ✅ Day 8 – CSS Fish Landing Page
 ✅ Day 9 – CSS Motivation Section (background, overlay, centered content)
+✅ Day 10 – CSS Hero Landing Page
+
 
 
 
