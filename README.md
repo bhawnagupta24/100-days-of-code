@@ -20,7 +20,7 @@ using HTML, CSS, JavaScript, UI/UX, and React (later phase).
 ✅ Day 10 – CSS Hero Landing Page
 ✅ Day 11 – Retro Style CSS Landing Page
 ✅ Day 13: Material Kit Landing Page (HTML & CSS)
-
+✅ Day 14: Banking Smart Rotate Landing Page (HTML & CSS)
 
 
 
