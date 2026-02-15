@@ -22,7 +22,7 @@ using HTML, CSS, JavaScript, UI/UX, and React (later phase).
 ✅ Day 13: Material Kit Landing Page (HTML & CSS)
 ✅ Day 14: Banking Smart Rotate Landing Page (HTML & CSS)
 ✅ Day 15: Panda Login Page (HTML & CSS)
-
+✅ Day 16: Learn Hub Education Landing Page (HTML & CSS)
 
 
 
