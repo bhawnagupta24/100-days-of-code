@@ -24,6 +24,8 @@ using HTML, CSS, JavaScript, UI/UX, and React (later phase).
 ✅ Day 15: Panda Login Page (HTML & CSS)
 ✅ Day 16: Learn Hub Education Landing Page (HTML & CSS)
 ✅ Day 17: Joker DC Landing Page (HTML & CSS)
+✅ Day 18: Amazon Fashion Landing Page (HTML & CSS)
+
 
 
 ## 🛠 Tech Stack
