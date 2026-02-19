@@ -26,6 +26,8 @@ using HTML, CSS, JavaScript, UI/UX, and React (later phase).
 ✅ Day 17: Joker DC Landing Page (HTML & CSS)
 ✅ Day 18: Amazon Fashion Landing Page (HTML & CSS)
 ✅ Day 19: Layla Character Profile UI (HTML & CSS)
+✅ Day 20: Gaming Accessories Showcase UI (HTML & CSS)
+
 
 
 
