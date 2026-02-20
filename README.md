@@ -27,7 +27,7 @@ using HTML, CSS, JavaScript, UI/UX, and React (later phase).
 ✅ Day 18: Amazon Fashion Landing Page (HTML & CSS)
 ✅ Day 19: Layla Character Profile UI (HTML & CSS)
 ✅ Day 20: Gaming Accessories Showcase UI (HTML & CSS)
-
+✅ Day 21: Azaan Anime Fashion UI (HTML & CSS)
 
 
 
