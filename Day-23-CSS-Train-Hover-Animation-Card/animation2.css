@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+#main{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+}
+#rectangle{
+    position: absolute;
+    top: 15%;
+    left: 35%;
+    height: 70%;
+    width: 30%;
+    box-shadow: 0 0 25px white;
+    border-radius: 30px;
+    overflow: hidden;
+    transition: 0.5s;
+    
+}
+#rectangle img{
+    height: 100%;
+    width: 100%;
+    border-radius: 30px;
+
+}
+#rectangle1{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(188, 226, 226, 0.24);
+    transition: 0.5s;
+    border-radius: 30px;
+    
+}
+#rectangle:hover #rectangle1{
+    rotate: 90deg;
+    transform-origin: right bottom;
+}
+#rectangle:hover img{
+    scale: 1.1;
+}
