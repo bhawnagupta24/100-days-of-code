@@ -11,7 +11,7 @@ using HTML, CSS, JavaScript, UI/UX, and React (later phase).
 ✅ Day 1 – HTML Lists (ordered, unordered, nested lists)
 ✅ Day 2 – HTML Media Elements (image, video, audio)
 ✅ Day 3 – HTML Tables (rowspan, colspan)
-✅ Update progress for Day 4 (HTML Forms)
+✅ Day 4 – HTML Forms (inputs, labels, form elements, basic CSS)
 ✅ Day 5 – CSS Resume (HTML structure & CSS styling)
 ✅ Day 6 – CSS Landing Page
 ✅ Day 7 – Landing Page Design (HTML & CSS)
@@ -30,7 +30,7 @@ using HTML, CSS, JavaScript, UI/UX, and React (later phase).
 ✅ Day 21: Azaan Anime Fashion UI (HTML & CSS)
 ✅ Day 22: Image Hover Animation Gallery (HTML & CSS)
 ✅ Day 23: Train Hover Animation Card (HTML & CSS)
-
+✅ Day 24: 2026 Interactive Grid Animation (HTML & CSS)
 
 
 
