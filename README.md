@@ -31,7 +31,7 @@ using HTML, CSS, JavaScript, UI/UX, and React (later phase).
 ✅ Day 22: Image Hover Animation Gallery (HTML & CSS)
 ✅ Day 23: Train Hover Animation Card (HTML & CSS)
 ✅ Day 24: 2026 Interactive Grid Animation (HTML & CSS)
-
+✅ Day 25: Sliding Profile Card Animation (HTML & CSS)
 
 
 
