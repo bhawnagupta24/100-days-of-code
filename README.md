@@ -33,7 +33,7 @@ using HTML, CSS, JavaScript, UI/UX, and React (later phase).
 ✅ Day 24: 2026 Interactive Grid Animation (HTML & CSS)
 ✅ Day 25: Sliding Profile Card Animation (HTML & CSS)
 ✅ Day 26: Auto Scrolling Nature Image Gallery
-
+✅ Day 27: AutoMove Car Dashboard UI
 
 
 
