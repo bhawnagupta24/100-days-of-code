@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+#main{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+}
+#main1{
+    display: flex;
+    align-items: center;
+    height: 50%;
+    width: 100%;
+    background-color: black;
+}
+    
+#cir{
+    position: absolute;
+    height: 15vh;
+    width: 15vh;
+    border: 2px solid white;
+    animation: scale 15s linear infinite;
+}
+@keyframes scale{
+    0%{
+        left: 0%;
+        /* margin-left: 0%; */
+        rotate: 0deg;
+    }
+    100%{
+        left: 100%;
+        /* margin-left: -100%; */
+        rotate: 360deg;
+    }
+}
