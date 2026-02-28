@@ -35,7 +35,7 @@ using HTML, CSS, JavaScript, UI/UX, and React (later phase).
 ✅ Day 26: Auto Scrolling Nature Image Gallery
 ✅ Day 27: AutoMove Car Dashboard UI
 ✅ Day 28: CSS Keyframe Circle Animation
-
+✅ Day 29: Perspective SaaS Landing Page UI
 
 
 
