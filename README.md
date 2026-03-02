@@ -37,6 +37,7 @@ using HTML, CSS, JavaScript, UI/UX, and React (later phase).
 ✅ Day 28: CSS Keyframe Circle Animation
 ✅ Day 29: Perspective SaaS Landing Page UI
 ✅ Day 30: 3D Car Hover Showcase – Interactive CSS perspective & rotateY animation
+✅ Day 31: 2026 Interactive Vision Portfolio – Multi-section 3D animated personal portfolio
 
 
 
