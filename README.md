@@ -41,7 +41,7 @@ using HTML, CSS, JavaScript, UI/UX, and React (later phase).
 ✅ Day 32: JavaScript Profile Card Popup – Interactive sliding card using DOM manipulation
 ✅ Day 33: JavaScript Hover Product Interaction – Dynamic UI background change on hover
 ✅ Day 34: Mouse Follow Achievements Showcase – Interactive portfolio certificates display
-
+✅ Day 35: Instagram UI Portfolio Slider – Swiper.js card slider with navigation controls
 
 
 
