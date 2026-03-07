@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html , body{
+    height: 100%;
+    width : 100%;
+}
+#main{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 10px;
+    height: 100%;
+    width : 100%;
+}
+.box{
+    height: 300px;
+    background-position: center;
+    background-size: contain;
+    background-image: url(https://img66.anypromo.com/product2/large/639044_color-multicolor.jpg/v5);
+    width: 300px;
+    border-radius: 10px;
+    background-color: black;
+}
