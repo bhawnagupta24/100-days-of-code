@@ -42,6 +42,8 @@ using HTML, CSS, JavaScript, UI/UX, and React (later phase).
 ✅ Day 33: JavaScript Hover Product Interaction – Dynamic UI background change on hover
 ✅ Day 34: Mouse Follow Achievements Showcase – Interactive portfolio certificates display
 ✅ Day 35: Instagram UI Portfolio Slider – Swiper.js card slider with navigation controls
+✅ Day 36: GSAP Box Animation – Smooth rotation and movement animation using GSAP
+
 
 
 
