@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+NZ+Basic:wght@100..400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+NZ+Basic:wght@100..400&family=Roboto+Slab:wght@100..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html , body{
+    height: 100%;
+    width : 100%;
+}
+
+header{
+    height: 10vh;
+    width: 100%;
+    background-color: beige;
+    position: fixed;
+    z-index: 2;
+}
+
+#main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    min-height: 100vh;
+    width: 100%;
+    /* background-color: antiquewhite; */
+}
+
+.right{
+    height: 100%;
+    width: 50%;
+    /* background-color: chartreuse; */
+}
+.left{
+    height: 100%;
+    width: 50%;
+    /* background-color: rgb(205, 219, 191); */
+}
+#left1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 35%;
+    /* background-color: bisque; */
+}
+#image{
+    height: 580px;
+    width: 350px;
+}
+.img1{
+    margin-left: 40px;
+    transform: translateX(-370px);
+}
+.img2{
+    transform: translateX(400px);
+}
+img{
+    border: 2px solid black;
+    height: 100%;
+    width: 100%;
+}
+#right1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40%;
+    /* background-color: rgb(69, 57, 42); */
+}
+.center{
+    padding: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    flex-direction: column;
+    height: 100%;
+    width: 60%;
+    /* background-color: blueviolet; */
+}
+h1{
+    font-family: "Playwrite NZ Basic", cursive;
+}
+#h1{
+    opacity: 0;
+    font-size: 40px;
+    transform: translateX(500px);
+}
+span{
+    color: rgb(140, 140, 200);
+}
+#h2{
+    font-size: 30px;
+}
+p{
+    font-family: "Roboto Slab", serif;
+}
+#p1{
+    text-align: justify;
+    font-size: 35px;
+}
+
+
+/* ------------------------section-2-------------------------------- */
+
+#overlap{
+    position: relative;
+    position: absolute;
+    top: 100vh;
+    min-height: 100vh;
+    width: 100%;
+    background-color: black;
+}
+#overlap section{
+    /* position: absolute; */
+    /* background-color: transparent; */
+    height: 100vh;
+    width: 100%;
+    /* background-color: burlywood; */
+}
+
