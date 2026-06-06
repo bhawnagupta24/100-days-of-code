@@ -45,7 +45,7 @@ using HTML, CSS, JavaScript, UI/UX, and React (later phase).
 ✅ Day 36: GSAP Box Animation – Smooth rotation and movement animation using GSAP
 ✅ Day 37: GSAP Timeline Controller – Interactive animation timeline controls using GSAP
 ✅ Day 38: JavaScript Modules & Rest Parameters – Import/export functions using ES6 modules
-
+✅ Day 39: GSAP Personal Poetry Showcase – Animated portfolio featuring poems, books, and creative storytelling
 
 
 
