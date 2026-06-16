@@ -50,6 +50,8 @@ using HTML, CSS, JavaScript, UI/UX, and React (later phase).
 ✅ Day 41: JavaScript Discount Eligibility Checker – Age and holiday-based discount validation using logical operators
 ✅ Day 42: JavaScript Random Number Generator – Practiced Math.random() for generating random values
 ✅ Day 43: JavaScript Coin Toss Simulator – Generated random Heads or Tails using Math.random()
+✅ Day 44: JavaScript Coin Toss Guessing Game – Built a prediction game using random outcomes and conditional logic
+
 
 
 
