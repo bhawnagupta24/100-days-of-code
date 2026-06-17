@@ -51,6 +51,9 @@ using HTML, CSS, JavaScript, UI/UX, and React (later phase).
 ✅ Day 42: JavaScript Random Number Generator – Practiced Math.random() for generating random values
 ✅ Day 43: JavaScript Coin Toss Simulator – Generated random Heads or Tails using Math.random()
 ✅ Day 44: JavaScript Coin Toss Guessing Game – Built a prediction game using random outcomes and conditional logic
+✅ Day 45: JavaScript Ternary Coin Toss Game – Built a concise coin toss game using ternary operators
+
+
 
 
 
