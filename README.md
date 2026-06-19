@@ -53,7 +53,7 @@ using HTML, CSS, JavaScript, UI/UX, and React (later phase).
 ✅ Day 44: JavaScript Coin Toss Guessing Game – Built a prediction game using random outcomes and conditional logic
 ✅ Day 45: JavaScript Ternary Coin Toss Game – Built a concise coin toss game using ternary operators
 ✅ Day 46: JavaScript Cart Quantity Tracker – Built a shopping cart system with quantity controls and cart limits
-
+✅ Day 47: JavaScript Enhanced Cart Tracker – Added maximum and minimum quantity validation for a shopping cart system
 
 
 
