@@ -54,6 +54,8 @@ using HTML, CSS, JavaScript, UI/UX, and React (later phase).
 ✅ Day 45: JavaScript Ternary Coin Toss Game – Built a concise coin toss game using ternary operators
 ✅ Day 46: JavaScript Cart Quantity Tracker – Built a shopping cart system with quantity controls and cart limits
 ✅ Day 47: JavaScript Enhanced Cart Tracker – Added maximum and minimum quantity validation for a shopping cart system
+✅ Day 48: JavaScript Functions & Parameters – Practiced function creation, arguments, and conditional greetings
+
 
 
 
