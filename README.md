@@ -56,7 +56,7 @@ using HTML, CSS, JavaScript, UI/UX, and React (later phase).
 ✅ Day 47: JavaScript Enhanced Cart Tracker – Added maximum and minimum quantity validation for a shopping cart system
 ✅ Day 48: JavaScript Functions & Parameters – Practiced function creation, arguments, and conditional greetings
 ✅ Day 49: JavaScript Temperature Converter – Converted Celsius and Fahrenheit using reusable functions
-
+✅ Day 50: JavaScript Length Unit Converter – Built a multi-unit conversion utility with validation support
 
 
 
