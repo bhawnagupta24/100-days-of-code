@@ -59,6 +59,8 @@ using HTML, CSS, JavaScript, UI/UX, and React (later phase).
 ✅ Day 50: JavaScript Length Unit Converter – Built a multi-unit conversion utility with validation support
 ✅ Day 51: JavaScript Basic Calculator – Built a calculator using functions, events, and expression evaluation
 ✅ Day 52: JavaScript Refactored Cart Tracker – Optimized cart management using reusable functions
+✅ Day 53: JavaScript Objects & Properties – Practiced object creation, property updates, and dynamic property addition
+
 
 
 
