@@ -61,7 +61,7 @@ using HTML, CSS, JavaScript, UI/UX, and React (later phase).
 ✅ Day 52: JavaScript Refactored Cart Tracker – Optimized cart management using reusable functions
 ✅ Day 53: JavaScript Objects & Properties – Practiced object creation, property updates, and dynamic property addition
 ✅ Day 54: JavaScript Object Comparison – Compared product objects using functions and property-based equality checks
-
+✅ Day 55: JavaScript String Methods – Practiced text formatting using toLowerCase() and repeat()
 
 
 
