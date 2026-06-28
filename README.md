@@ -62,6 +62,11 @@ using HTML, CSS, JavaScript, UI/UX, and React (later phase).
 ✅ Day 53: JavaScript Objects & Properties – Practiced object creation, property updates, and dynamic property addition
 ✅ Day 54: JavaScript Object Comparison – Compared product objects using functions and property-based equality checks
 ✅ Day 55: JavaScript String Methods – Practiced text formatting using toLowerCase() and repeat()
+✅ Day 56: JavaScript Calculator with Local Storage – Built a calculator that saves and restores calculations using Local Storage
+
+
+
+
 
 
 
