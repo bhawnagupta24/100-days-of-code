@@ -64,7 +64,7 @@ using HTML, CSS, JavaScript, UI/UX, and React (later phase).
 ✅ Day 55: JavaScript String Methods – Practiced text formatting using toLowerCase() and repeat()
 ✅ Day 56: JavaScript Calculator with Local Storage – Built a calculator that saves and restores calculations using Local Storage
 ✅ Day 57: JavaScript Coin Toss Game with Functions – Built an interactive coin toss game using reusable functions and random outcomes
-
+✅ Day 58: JavaScript Coin Toss Score Tracker – Built a coin toss game with score tracking and Local Storage persistence
 
 
 
