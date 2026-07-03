@@ -1,0 +1,17 @@
+*{
+  
+    box-sizing: border-box;
+}
+html , body{
+    height: 100%;
+    width : 100%;
+    background-color: beige;
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+button{
+    padding: 10px 10px;
+    border-radius: 20px;
+    border: 1px solid black;
+}
