@@ -67,6 +67,7 @@ using HTML, CSS, JavaScript, UI/UX, and React (later phase).
 ✅ Day 58: JavaScript Coin Toss Score Tracker – Built a coin toss game with score tracking and Local Storage persistence
 ✅ Day 59: JavaScript Rock Paper Scissors Game – Built an interactive game with score tracking and Local Storage support
 ✅ Day 60: JavaScript DOM Element Selection – Practiced selecting HTML elements and updating content using `querySelector()` and `innerHTML`
+✅ Day 61: JavaScript DOM Element Selection – Practiced selecting HTML elements using querySelector(), updated content dynamically with innerHTML, and handled user interactions
 
 
 
