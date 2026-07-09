@@ -70,7 +70,7 @@ using HTML, CSS, JavaScript, UI/UX, and React (later phase).
 ✅ Day 61: JavaScript DOM Element Selection – Practiced selecting HTML elements using querySelector(), updated content dynamically with innerHTML, and handled user interactions
 ✅ Day 62: JavaScript Rock Paper Scissors Game (Functions) – Refactored the game using reusable functions for cleaner code, improved readability, and better logic organization
 ✅ Day 63: JavaScript Rock Paper Scissors with Auto Play – Added an automatic gameplay mode using setInterval() and clearInterval() while practicing timers and event handling
-
+✅ Day 64: JavaScript Keyboard Event Controls – Enhanced the Rock Paper Scissors game with keyboard shortcuts using keydown events for a smoother user experience
 
 
 
