@@ -72,7 +72,7 @@ using HTML, CSS, JavaScript, UI/UX, and React (later phase).
 ✅ Day 63: JavaScript Rock Paper Scissors with Auto Play – Added an automatic gameplay mode using setInterval() and clearInterval() while practicing timers and event handling
 ✅ Day 64: JavaScript Keyboard Event Controls – Enhanced the Rock Paper Scissors game with keyboard shortcuts using keydown events for a smoother user experience
 ✅ Day 65: JavaScript Advanced Calculator – Improved calculator functionality by organizing logic into reusable functions and handling mathematical expressions efficiently
-
+✅ Day 66: JavaScript Calculator with Live Display – Built an interactive calculator featuring real-time expression updates, Local Storage persistence, DOM manipulation, reusable functions, and dynamic calculation rendering
 
 
 
