@@ -74,7 +74,7 @@ using HTML, CSS, JavaScript, UI/UX, and React (later phase).
 ✅ Day 65: JavaScript Advanced Calculator – Improved calculator functionality by organizing logic into reusable functions and handling mathematical expressions efficiently
 ✅ Day 66: JavaScript Calculator with Live Display – Built an interactive calculator featuring real-time expression updates, Local Storage persistence, DOM manipulation, reusable functions, and dynamic calculation rendering
 ✅ Day 67: JavaScript Rock Paper Scissors Game – Built an interactive game with random computer moves, DOM manipulation, reusable functions, live score tracking, Local Storage persistence, and reset functionality
-
+✅ Day 68: JavaScript Subscribe Button & Shipping Calculator – Built interactive mini projects featuring DOM manipulation, button state toggling, shipping cost calculation, keyboard events, conditional logic, and dynamic content updates
 
 
 
