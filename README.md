@@ -76,7 +76,7 @@ using HTML, CSS, JavaScript, UI/UX, and React (later phase).
 ✅ Day 67: JavaScript Rock Paper Scissors Game – Built an interactive game with random computer moves, DOM manipulation, reusable functions, live score tracking, Local Storage persistence, and reset functionality
 ✅ Day 68: JavaScript Subscribe Button & Shipping Calculator – Built interactive mini projects featuring DOM manipulation, button state toggling, shipping cost calculation, keyboard events, conditional logic, and dynamic content updates
 ✅ Day 69: CSS Button Styling Projects – Built Amazon and Uber inspired button components using HTML and CSS while practicing padding, border-radius, typography, spacing, cursor styling, and modern UI design principles
-
+✅ Day 70: JavaScript classList.contains() – Practiced DOM element selection and verified CSS classes using classList.contains() to understand conditional UI behavior
 
 
 
