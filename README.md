@@ -77,7 +77,7 @@ using HTML, CSS, JavaScript, UI/UX, and React (later phase).
 ✅ Day 68: JavaScript Subscribe Button & Shipping Calculator – Built interactive mini projects featuring DOM manipulation, button state toggling, shipping cost calculation, keyboard events, conditional logic, and dynamic content updates
 ✅ Day 69: CSS Button Styling Projects – Built Amazon and Uber inspired button components using HTML and CSS while practicing padding, border-radius, typography, spacing, cursor styling, and modern UI design principles
 ✅ Day 70: JavaScript classList.contains() – Practiced DOM element selection and verified CSS classes using classList.contains() to understand conditional UI behavior
-
+✅ Day 71: JavaScript Toggle Button – Built an interactive toggle button using classList.add(), classList.remove(), and classList.contains() to dynamically switch between active and inactive states
 
 
 
