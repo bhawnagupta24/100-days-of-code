@@ -78,6 +78,8 @@ using HTML, CSS, JavaScript, UI/UX, and React (later phase).
 ✅ Day 69: CSS Button Styling Projects – Built Amazon and Uber inspired button components using HTML and CSS while practicing padding, border-radius, typography, spacing, cursor styling, and modern UI design principles
 ✅ Day 70: JavaScript classList.contains() – Practiced DOM element selection and verified CSS classes using classList.contains() to understand conditional UI behavior
 ✅ Day 71: JavaScript Toggle Button – Built an interactive toggle button using classList.add(), classList.remove(), and classList.contains() to dynamically switch between active and inactive states
+✅ Day 72: JavaScript Multiple Toggle Buttons – Built interactive Gaming, Music, and Tech toggle buttons using classList.add(), classList.remove(), classList.contains(), and DOM manipulation for dynamic UI interactions
+
 
 
 
