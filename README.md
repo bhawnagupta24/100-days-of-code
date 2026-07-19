@@ -79,6 +79,11 @@ using HTML, CSS, JavaScript, UI/UX, and React (later phase).
 ✅ Day 70: JavaScript classList.contains() – Practiced DOM element selection and verified CSS classes using classList.contains() to understand conditional UI behavior
 ✅ Day 71: JavaScript Toggle Button – Built an interactive toggle button using classList.add(), classList.remove(), and classList.contains() to dynamically switch between active and inactive states
 ✅ Day 72: JavaScript Multiple Toggle Buttons – Built interactive Gaming, Music, and Tech toggle buttons using classList.add(), classList.remove(), classList.contains(), and DOM manipulation for dynamic UI interactions
+✅ Day 73: JavaScript Reusable Toggle Buttons – Refactored multiple toggle buttons using a reusable toggleButton() function, external CSS & JavaScript files, DOM manipulation, and classList methods for cleaner and maintainable code
+
+
+
+
 
 
 
