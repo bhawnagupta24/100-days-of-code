@@ -80,7 +80,7 @@ using HTML, CSS, JavaScript, UI/UX, and React (later phase).
 ✅ Day 71: JavaScript Toggle Button – Built an interactive toggle button using classList.add(), classList.remove(), and classList.contains() to dynamically switch between active and inactive states
 ✅ Day 72: JavaScript Multiple Toggle Buttons – Built interactive Gaming, Music, and Tech toggle buttons using classList.add(), classList.remove(), classList.contains(), and DOM manipulation for dynamic UI interactions
 ✅ Day 73: JavaScript Reusable Toggle Buttons – Refactored multiple toggle buttons using a reusable toggleButton() function, external CSS & JavaScript files, DOM manipulation, and classList methods for cleaner and maintainable code
-
+✅ Day 74: JavaScript Single Active Toggle Buttons – Built a category selection interface where only one button remains active at a time using reusable functions, DOM manipulation, classList methods, and state management techniques
 
 
 
