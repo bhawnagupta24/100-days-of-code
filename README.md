@@ -82,6 +82,9 @@ using HTML, CSS, JavaScript, UI/UX, and React (later phase).
 ✅ Day 73: JavaScript Reusable Toggle Buttons – Refactored multiple toggle buttons using a reusable toggleButton() function, external CSS & JavaScript files, DOM manipulation, and classList methods for cleaner and maintainable code
 ✅ Day 74: JavaScript Single Active Toggle Buttons – Built a category selection interface where only one button remains active at a time using reusable functions, DOM manipulation, classList methods, and state management techniques
 ✅ Day 75: JavaScript Shipping Calculator with Validation – Enhanced the Amazon shipping calculator by implementing input validation, dynamic error handling, keyboard event support, conditional shipping logic, and real-time DOM updates
+✅ Day 76: JavaScript Calculator with Local Storage – Built a fully functional calculator featuring arithmetic operations, dynamic calculation display, reusable functions, Local Storage persistence, expression evaluation, and responsive UI design
+
+
 
 
 
